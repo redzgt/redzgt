@@ -15,10 +15,10 @@ Welcome to my GitHub! I build games, tools, and fun interactive projects. Mostly
 
 ## 📌 Projects
 
-- **Just check out my page man.** https://www.redz.city
+- **Just check out my page man:** [redz.city](https://www.redz.city)
 
 ---
 
 ## 📫 Contact
 
-- **Online:** [redz](#)  
+- **Online:** [redz.city](https://www.redz.city)
