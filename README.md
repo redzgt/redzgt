@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I build games, tools, and fun interactive projects. Mostly web, some Unity stuff, and whatever else I feel like experimenting with.  
 
+> ⚠️ Disclaimer: None of my projects are open source. You won’t find the full code here—they’re all published on my site.
+
 ---
 
 ## 🛠 Skills & Tools
@@ -15,7 +17,7 @@ Welcome to my GitHub! I build games, tools, and fun interactive projects. Mostly
 
 ## 📌 Projects
 
-- **Just check out my page man:** [redz.city](https://www.redz.city)
+- **Check out my stuff:** [redz.city](https://www.redz.city)
 
 ---
 
